@@ -1,0 +1,15 @@
+<?xml version='1.0' standalone='yes'?>
+<extensions>
+  <icon>plugins/SwitchGroupPlayer/html/images/switchplayer.png</icon>
+  <email>philippe_44@outlook.com</email>
+  <targetApplication>
+    <maxVersion>*</maxVersion>
+    <minVersion>7.3</minVersion>
+  </targetApplication>
+  <creator>Philippe</creator>
+  <description>PLUGIN_SWITCHPLAYER_DESC</description>
+  <name>PLUGIN_SWITCHGROUPPLAYER</name>
+  <version>0.4</version>
+  <defaultState>enabled</defaultState>
+  <module>Plugins::SwitchGroupPlayer::Plugin</module>
+</extensions>

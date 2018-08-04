@@ -1,0 +1,21 @@
+PLUGIN_SWITCHGROUPPLAYER
+	EN	Switch Player - Group Player compatible
+	
+PLUGIN_SWITCHPLAYER
+	EN	Switch Player
+
+PLUGIN_SWITCHPLAYER_DESC
+	EN	Allows you to transfer the currently playing playlist including remote streams from one player to another player as you move between rooms. This version is compatible with Group Player plugin. Please remove original Switch Player first
+
+PLUGIN_SWITCHPLAYER_TO
+	EN	To
+
+PLUGIN_SWITCHPLAYER_FROM
+	EN	From
+
+PLUGIN_SWITCHPLAYER_NOPLAYERS_PLAYING
+	EN	No Available Players
+	
+PLUGIN_SWITCHPLAYER_NOPLAYERS_NONPLAYING
+	EN	No Playing Players
+

@@ -1,0 +1,17 @@
+<?xml version='1.0' standalone='yes'?>
+<extensions>
+  <plugins>
+    <plugin maxTarget="7.*" version="0.4" name="SwitchGroupPlayer" minTarget="7.7">
+      <link>http://github.com/philippe44/SwitchGroupPlayer</link>
+      <url>http://downloads.sourceforge.net/project/SwitchGroupPlayer/dev/SwitchGroupPlayer-0.4.zip</url>
+      <email>philippe_44@outlook.com</email>
+      <desc lang="EN">Switch Playlist between players (Triode plugin compatible with Group Player plugin)</desc>
+      <creator>Philippe</creator>
+      <sha>a80c3acfbab212ad68b96251658214bf2c9d5e59</sha>
+      <title lang="EN">Switch Player (Groups compatible)</title>
+    </plugin>
+  </plugins>
+  <details>
+    <title lang="EN">Philippe's update of Triode's Switch Player plugin - development</title>
+  </details>
+</extensions>
